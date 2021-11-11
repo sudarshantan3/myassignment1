@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    pading:0;
+}
+h1{
+    text-align:center;
+}
+.App{
+    height:100vh;
+    background-color:blue;
+}
+.con1{
+width:50%;
+height: inherit;
+background-color: white;
+display:flex;
+flex-direction: row;
+align-items: center;
+}
+input[type="text"]{
+    border: 2px solid black;
+    width: 200px;
+    height:30px
+}
